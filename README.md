@@ -1,13 +1,8 @@
 # CS-350
 
-Milestone Two Summary
+Milestones Two & Three Summary
+The objective for Milestone Two was to control two LED lights using a state machine. When the user types ON or OFF into the console the LED turns on or OFF accordingly. The objective for Milestone Three was to blink the LED lights using a Morse code pattern created by a synchronous state machine.
 
-Milestone Three Summary
+I think I did well reaching the objectives, however the time it took me to learn what I needed to know to complete the assisnments was excessive. The knowledge I gained will definitely help me in the future, though.
 
-
-Summarize the project and what problem it was solving.
-What did you do particularly well?
-Where could you improve?
-What tools and/or resources are you adding to your support network?
-What skills from this project will be particularly transferable to other projects and/or course work?
-How did you make this project maintainable, readable, and adaptable?
+To make the code adaptable and readable, I made sure to comment in each section what the code block was intended to do.
